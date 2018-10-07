@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">শুধু জাভা</string>
+    <string name="Toppings">টপিং</string>
+    <string name="EnterYourName">আপনার নাম লিখুন</string>
+    <string name="WhippedCream">হুইপ ক্রিম</string>
+    <string name="Chocolate">চকলেট</string>
+    <string name="Quantity">পরিমান</string>
+    <string name="Order">অডার করুন</string>
+    <string name="OrderSummary">অডারের বিবরণ</string>
+    <string name="ThankYou">ধন্যবাদ</string>
+    <string name="Added">যুক্ত</string>
+    <string name="Name">নাম</string>
+    <string name="Total">মোট</string>
+    <string name="And">এবং</string>
+    <string name="JustJavaOrderFor">শুধু জাভা অডারঃ </string>
+</resources>
